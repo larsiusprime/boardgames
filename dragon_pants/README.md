@@ -72,19 +72,19 @@ Deal N cards from the Deck of Power face down into a separate stack, where N is 
 
 Each player selects a dragon pawn and places it on their den tile.
 
-2 players:
+###2 players:
 ![2 Player game](/dragon_pants/images/map_2_player.png)
 
-3 players:
+###3 players:
 ![3 Player game](/dragon_pants/images/map_3_player.png)
 
-4 players:
+###4 players:
 ![4 Player game](/dragon_pants/images/map_4_player.png)
 
-5 players:
+###5 players:
 ![5 Player game](/dragon_pants/images/map_5_player.png)
 
-6 players:
+###6 players:
 ![6 Player game](/dragon_pants/images/map_6_player.png)
 
 *Note: I usually play this game with 3 or 4 players. The 5-player variant has an obvious gap that might need to be revised. The 6-player variant is geometrically balanced but I haven't play tested much with that many people. 2 players works fine but 3-4 seems to be the sweet spot.*
