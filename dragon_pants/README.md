@@ -9,7 +9,7 @@ Designed by Megan Bednarz and Lars Doucet
 ##Overview
 
 2-6 players  
-Playtime: ~30 minutes
+Playtime: ~30 minutes  
 Suggested age: 10+ maybe?
 
 ##Object of the game
