@@ -2,5 +2,5 @@
 
 by Megan Bednarz and Lars Doucet
 
-2-6 players
-Playtime ~30 minutes
+2-6 players  
+Playtime: ~30 minutes
