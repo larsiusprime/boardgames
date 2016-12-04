@@ -47,8 +47,23 @@ The dragon who holds The Pants when the game's timer expires wins the game.
  - (+1) x3
  - (+2) x2
  - Blank x4
-   
 
 ##Setup
 
+1. Arrange the hexagonal tiles like this:
+
 ![Dragon Pants board](/dragon_pants/images/map.png)
+
+NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurposes existing hexagonal tiles to play *Dragon Pants.*
+
+2. Set up the "Deck of Destiny"
+
+Place all "time" cards (those bearing a number with a + or - sign) into their own deck. For a standard game, shuffle all the number cards together. This is the "Deck of Destiny." Place this deck face-down next to the board.
+
+3. Set up the "Deck of Power"
+
+The rest of the cards are the "Deck of Power." Find the card labeled "The Pants" and remove it from the Deck of Power and set it aside. Shuffle the remaining cards and place the deck face-down next to the Deck of Destiny.
+
+4. Deal initial power cards
+
+Deal N cards from the Deck of Power face down into a separate stack, where N is one less than the number of players. Add The Pants to this stack, then shuffle the stack and deal 1 power card to each player, face-up.
