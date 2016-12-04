@@ -90,3 +90,10 @@ The dragon who holds The Pants when the game's timer expires wins the game.
 
   *Note: I usually play this game with 3 or 4 players. The 5-player variant has an obvious gap that might need to be revised. The 6-player variant is geometrically balanced but I haven't play tested much with that many people. 2 players works fine but 3-4 seems to be the sweet spot.*
 
+##Play
+
+##Cards
+
+##Rules
+
+##FAQ
