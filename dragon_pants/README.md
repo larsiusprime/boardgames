@@ -159,7 +159,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   A. Line of sight
   
-  Certain ranged Power cards require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line, and diagonal-line. 
+  Certain ranged Power cards such as Fireball and Shock require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line (ex: Fireball), and diagonal-line (ex: Shock). 
   
   Flat-line of sight means you can draw a straight line between yourself and the target dragon, crossing through the flat sides of the hexagon tiles, without any mountains or other dragons in between you:
   
@@ -172,6 +172,16 @@ Players take turns moving their dragons across the board, taking advantage of te
   Any mountains in the between you and the target will block line of sight. You will still be able to target a dragon standing *on* a mountain in your line of sight, but not one *behind* it.
   
   ![](/dragon_pants/images/line_of_sight_checks.png)
+  
+  Water tiles confer immunity to line-of-sight powers, but do not block line-of-sight powers the way mountains do. (The dragon on that tile is hiding underneath the water and any attack would fly straight over them). Dragons standing on a water tile are still able to use line-of-sight powers themselves, however (they duck their heads above water to attack).
+  
+  B. Reaction powers
+  
+  Some cards (Poison, Rubber Ducky) can only be used in reaction to other powers. When a card is used against you that triggers one of your reaction powers, at that moment you *may elect* to immediately use your reaction power in response, but you do not have to. Two conditions must be met: 1) the reaction must be legal (see the card's rules), and 2) the reaction card must not be spent (it must be face-up). A reaction card used in this way remains "spent" until the end of your *next* turn. 
+  
+  Example 1: Megan is player 1 in a six player game and completes her turn. John, player 2, hits her with a fireball. Megan plays her Shield in response, canceling the fireball's effects, marking the Shield as "spent." The Shield will not be available until players 3-6 have taken their turns, *and* Megan finishes her *next* turn after that. Until then her Shield cannot protect her.
+  
+  Example 2: Emily is player 4 in a four player game and it is Lars's turn (he's player 3). He hits her with a freeze spell, and she uses her Amulet in response, canceling the freeze, marking the Amulet as "spent." The Amulet will not be available until Emily finishes her *next* turn which is... really soon! Lars ends his turn and now it's Emily's turn. She takes some actions, ends her turn, and flips her Amulet back over, fully charged and ready to go.
 
 6. 
 
