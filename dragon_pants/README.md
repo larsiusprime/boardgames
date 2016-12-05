@@ -114,13 +114,16 @@ Players take turns moving their dragons across the board, taking advantage of te
  
 2. Taking a turn
 
- A player may take up to two (2) *actions* on a turn. An *action* is defined as either moving their dragon one tile to an adjacent hexagon, drawing a card from the Deck of Power, or playing a card from their hand. This means a player may do any of the following in a single turn:
- - Move two spaces
- - Move one space and play one card
- - Move one space and draw a card
- - Draw two cards
- - Draw one card and move one space
- - Draw one card and play one card
+ A player may take up to two (2) *actions* on a turn. An *action* is defined as either moving their dragon one tile to an adjacent hexagon, drawing a card from the Deck of Power, or playing a card from their hand.
+ 
+ This means a player may do any of the following in a single turn:
+ - Move two (2) spaces
+ - Move one (1) space and play one (1) card
+ - Move one (1) space and draw one (1) card
+ - Draw two (2) cards
+ - Draw one (1) card and move one (1) space
+ - Draw one (1) card and play one (1) card
+ - Play two (2) cards
  
 3. Drawing cards
  
@@ -128,7 +131,7 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  A. Discarding cards
 
- Various events in the game will cause a player to discard. Players must discard Power cards face-up into a discard pile next to the Deck of Power.
+ Various events in the game will cause a player to discard cards; they should be placed face-up into a separate discard pile next to the Deck of Power.
  
  B. Card choice
  
@@ -140,8 +143,7 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  D. Re-shuffling
  
- At the moment a player chooses to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
-
+ When a player spends an action to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
  
 
 ##Cards
