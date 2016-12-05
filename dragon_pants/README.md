@@ -12,9 +12,9 @@ Designed by Megan Bednarz and Lars Doucet
 Playtime: ~30 minutes  
 Suggested age: 10+ maybe?
 
-##Object of the game
+##Summary
 
-The dragon who holds The Pants when the game's timer expires wins the game.
+Players take turns moving their dragons across the board, taking advantage of terrain tiles, and drawing and using power cards, all in the hopes of seizing control of the legendary artifact of ultimate power: a handsomely tailored and comfortably stylish pair of denim work jeans known as *The Pants*. The Pants can only be worn by one dragon at a time and possession is fleeting as it's only a matter of time until another dragon pries them loose from their owner's claws. Time ticks down one card at a time whenever a dragon wearing The Pants ends their turn. The game concludes when the timer runs out, and whichever dragon happens to be wearing The Pants at that moment wins.
 
 ##Contents
 
