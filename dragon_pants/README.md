@@ -71,7 +71,7 @@ Players take turns moving their dragons across the board, taking advantage of te
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
  | # in deck |   16  |     4 |     2 |     4 |     3 |   -20    |
 
- An example of the default setup:
+ Here is an example of the time card using the standard setup, with the time status token at 0, and the time target token at -10:
  
  ![Time card with time status token placed at 0, and time target token placed at -10](/dragon_pants/images/time_card_small_example.png)
 
