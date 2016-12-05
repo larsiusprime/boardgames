@@ -43,7 +43,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
 1. Arrange the hexagonal tiles like this:
 
-  ![Dragon Pants board](/dragon_pants/images/map.png)
+  ![Dragon Pants board](/dragon_pants/images/map_small.png)
   
   NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurposes existing hexagonal tiles to play *Dragon Pants.*
 
