@@ -216,7 +216,7 @@ Cards can only be used on your turn, unless they're reaction cards.
 3. Poison (Curse)  
  Use when: you are bitten by another dragon, or targeted by the "tongue" card  
  Effect:  
-   Nothing bad happens to you, *and*
+   Nothing bad happens to you, *and*  
    (bitten): the other dragon is sent back to their Den tile instead of you, and must discard a card (their choice).  
    (tongue'd): the other dragon must discard a card (their choice), and does not get to take anything from you.
    
