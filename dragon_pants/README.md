@@ -127,7 +127,7 @@ Players take turns moving their dragons across the board, taking advantage of te
  
 3. Drawing cards
  
- A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold spaces marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
+ A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold tiles marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
  
  A. Discarding cards
 
@@ -139,12 +139,15 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  C. Hand Limit
  
- Players have a hand limit of 3 cards. If a player ever gains a fourth card, that player must immediately discard one of their cards (their choice).
+ Players have a hand limit of 3 cards. If at any moment a player holds 4 cards (whether by drawing a new card or stealing it from another player), that player must immediately discard one of their cards (their choice).
  
  D. Re-shuffling
  
  When a player spends an action to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
  
+4. Biting other dragons
+
+ A player may *bite* another player by moving their dragon into the same tile as the other player's dragon. The biting dragon  now occupies that tile, and the bitten dragon moves back to their den tile. Additionally, the biting dragon selects one power card from the bitten dragon and takes it into their hand.
 
 ##Cards
 
