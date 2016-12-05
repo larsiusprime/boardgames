@@ -125,7 +125,13 @@ Players take turns moving their dragons across the board, taking advantage of te
  - Draw one (1) card and play one (1) card
  - Play two (2) cards
  
-3. Drawing cards
+3. Moving
+
+ A player may move onto any space on the board, except for a mountain tile with another dragon on it. A player may move onto a tile occupied by another dragon (see "Biting"), a water tile, a land tile, or a power tile. 
+ 
+ A player starts the game on their own Den tile, and may be forced back here at certain times by other player's actions. However, a player may never voluntarily move into a Den tile, and if they start their turn standing on a Den tile, they *must* immediately move out of it as their first action. A player standing on a den tile may not use power cards, and a player wearing The Pants who ends their turn on a Den tile for any reason may not draw a Destiny card.
+ 
+4. Drawing cards
  
  A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold tiles marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
  
@@ -145,13 +151,15 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  When a player spends an action to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
  
-4. Biting other dragons
+5. Biting other dragons
 
  A player may *bite* another player by moving their dragon into the same tile as the other player's dragon. The biting dragon  now occupies that tile, and the bitten dragon moves back to their den tile. Additionally, the biting dragon selects one power card from the bitten dragon's hand and adds it to their own hand.
  
  A dragon that is standing on a Mountain tile may not be bitten -- this also means that as long as it occupies that tile, no other dragon may move there.
  
- 5. Playing Power cards
+ For the purposes of reaction cards, a bite counts as an *attack* and as a *theft*.
+ 
+6. Playing Power cards
  
   A player may play a Power card as one of their actions by declaring which card they are using and flipping it face down, marking it as "spent." The card will remain "spent" until the end of their *next* turn, at which time the player may flip it face up again.
  
@@ -159,7 +167,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   A. Line of sight
   
-  Certain ranged Power cards require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line, and diagonal-line. 
+  Certain ranged Power cards such as Fireball and Shock require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line (ex: Fireball), and diagonal-line (ex: Shock). 
   
   Flat-line of sight means you can draw a straight line between yourself and the target dragon, crossing through the flat sides of the hexagon tiles, without any mountains or other dragons in between you:
   
@@ -172,27 +180,82 @@ Players take turns moving their dragons across the board, taking advantage of te
   Any mountains in the between you and the target will block line of sight. You will still be able to target a dragon standing *on* a mountain in your line of sight, but not one *behind* it.
   
   ![](/dragon_pants/images/line_of_sight_checks.png)
+  
+  Water tiles confer immunity to line-of-sight powers, but do not block line-of-sight powers the way mountains do. (The dragon on that tile is hiding underneath the water and any attack would fly straight over them). Dragons standing on a water tile are still able to use line-of-sight powers themselves, however (they duck their heads above water to attack).
+  
+  B. Reaction powers
+  
+  Some cards (Poison, Rubber Ducky) can only be used in reaction to other powers. When a card is used against you that triggers one of your reaction powers, at that moment you *may elect* to immediately use your reaction power in response, but you do not have to. Two conditions must be met: 1) the reaction must be legal (see the card's rules), and 2) the reaction card must not be spent (it must be face-up). A reaction card used in this way remains "spent" until the end of your *next* turn. 
+  
+  Example 1: Megan is player 1 in a six player game and completes her turn. John, player 2, hits her with a fireball. Megan plays her Shield in response, canceling the fireball's effects, marking the Shield as "spent." The Shield will not be available until players 3-6 have taken their turns, *and* Megan finishes her *next* turn after that. Until then her Shield cannot protect her.
+  
+  Example 2: Emily is player 4 in a four player game and it is Lars's turn (he's player 3). He hits her with a freeze spell, and she uses her Amulet in response, canceling the freeze, marking the Amulet as "spent." The Amulet will not be available until Emily finishes her *next* turn which is... really soon! Lars ends his turn and now it's Emily's turn. She takes some actions, ends her turn, and flips her Amulet back over, fully charged and ready to go.
 
-6. 
+7. Wearing The Pants
+
+ Whenever a player currently holding The Pants ends their turn, they draw a card from the Deck of Destiny and reveal it face up in a discard pile next to the Deck of Destiny. They then move the time status token a corresponding number of spaces. Example: Sean begins his turn with the time status token on "0." He ends his turn wearing the pants, and draws a Destiny card. It's "-1", so he moves the time status token to "-1". Next turn, Lars steals the pants and draws a "-2", he moves the time status token to "-3". On the next three turns, nobody steals the pants, so no Destiny card is drawn. Now it's Sean's turn again, he steals the pants back from Lars, and draws a "+1", moving the time status token to "-2".
+ 
+ The game ends when the time status token reaches the time target token. Players can double check by simply summing up all the discarded Destiny cards. If the Deck of Destiny has been properly arranged, the game should be guaranteed to end when all the cards have been drawn, but because of the random ordering the game could always end early, so you never know exactly how much time is left. When the game ends, whichever player is currently wearing the pants is declared the winner.
+ 
+ Remember, Destiny cards are only drawn when a player wearing The Pants ends their turn! It is not possible for the game to end without someone wearing The Pants.
+ 
+ **SPECIAL RULE:** If the player wearing The Pants is currently occupying a Den tile, then they *do not* draw a Destiny card at the end of their turn.
 
 ##Power Cards
 
-1. Categories
+Cards can only be used on your turn, unless they're reaction cards.
 
- Cards come in various categories that are referred to by their specific rules. Cards may 
-
-2. Specific cards
-
- A. Fireball (attack)
- Use: when you have flat-line of sight on another dragon
+1. Fireball (attack)  
+ Use when: you have flat-line of sight on another dragon  
+ Effect: the other dragon loses one of their power cards (their choice).
  
- C. Poison (Curse)
- Use: when you are bitten by another dragon, or targeted by the "tongue" card
- Effect: the other dragon is sent back to their den tile instead, and must discard a card (their choice).
-   if tongue'd: the other dragon must discard a card
+2. Shock (attack+curse)  
+ Use when: you have diagonal-line of sight on another dragon  
+ Effect: the other dragon loses one of their power cards (their choice) *and* gets sent home to their Den tile.
+ 
+3. Poison (Curse)  
+ Use when: you are bitten by another dragon, or targeted by the "tongue" card  
+ Effect:  
+   Nothing bad happens to you, *and*  
+   (bitten): the other dragon is sent back to their Den tile instead of you, does not get to take anything from you, and must discard a card (their choice).  
+   (tongue'd): the other dragon must discard a card (their choice), and does not get to take anything from you.
    
- B. 
+4. Amulet (Protect Curse)  
+ Use when: another dragon uses a curse card on you  
+ Effect: nothing happens to you (but the curse card used against you is spent, as is the amulet). If the curse affected more dragons than just you, nothing happens to *you*, but it still affects everybody else.
+ 
+5. Freeze (Curse)  
+ Use when: you have flat-line of sight on another dragon  
+ Effect: the other dragon skips their *next* turn. If they are wearing The Pants while frozen, they don't draw a Destiny card when their turn is skipped.
+ 
+6. Banish (Curse)  
+ Use when: you have flat-line of sight on another dragon (? was it global range ?)  
+ Effect: the other dragon is sent home to their den.
+ 
+7. Mirror (Protect attack or curse)  
+ Use when: another dragon uses an attack or curse card on you  
+ Effect: whatever was about to happen to you happens to them instead (the fireball hits them, the tongue steals from them and gives to you, etc. If it was a global effect that targeted other dragons as well as you, the original effects still affects everyone else, but the dragon that attacked or cursed you gets the effect meant for you and you remain safe).
+ 
+8. Thunderstorm (Curse)  
+ Use when: anytime on your turn  
+ Effect: all other dragons are sent home to their Den tiles.
+ 
+9. Shield (Protect Attack)  
+ Use when: another dragon uses an attack card on you  
+ Effect: nothing happens to you (but the attack card used against you is spent, as is the shield). If the attack affected more dragons than just you, nothing happens to *you*, but it still affects everybody else.
 
-##Rules
-
-##FAQ
+10. Teleport (Curse)  
+ Use when: anytime on your turn  
+ Effect: trade places with another dragon (even if they're on a Den tile).
+ 
+10. Tongue (Theft)  
+ Use when: you have flat-line of sight on another dragon  
+ Effect: you take one card (your choice) from the other dragon's hand and add it to your own.
+ 
+11. Rubber Ducky (Theft bait)  
+ Use when: another dragon tries to steal from you (either a tongue or a bite)  
+ Effect: the dragon that tried to steal has no choice but to steal the irresistible Rubber Ducky, regardless of what choice they wanted to make.
+ 
+12. Boost  
+ Use when: anytime on your turn  
+ Effect: You may take one extra action this turn, and using this card does not cost one action (but the card is still spent). IE, you can spend this card and then take 3 actions this turn.
