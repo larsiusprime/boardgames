@@ -147,9 +147,51 @@ Players take turns moving their dragons across the board, taking advantage of te
  
 4. Biting other dragons
 
- A player may *bite* another player by moving their dragon into the same tile as the other player's dragon. The biting dragon  now occupies that tile, and the bitten dragon moves back to their den tile. Additionally, the biting dragon selects one power card from the bitten dragon and takes it into their hand.
+ A player may *bite* another player by moving their dragon into the same tile as the other player's dragon. The biting dragon  now occupies that tile, and the bitten dragon moves back to their den tile. Additionally, the biting dragon selects one power card from the bitten dragon's hand and adds it to their own hand.
+ 
+ A dragon that is standing on a Mountain tile may not be bitten -- this also means that as long as it occupies that tile, no other dragon may move there.
+ 
+ 5. Playing Power cards
+ 
+  A player may play a Power card as one of their actions by declaring which card they are using and flipping it face down, marking it as "spent." The card will remain "spent" until the end of their *next* turn, at which time the player may flip it face up again.
+ 
+  However, most cards can only be used in certain situations, so a card can only be played if the card-specific conditions are met. See the next section, "Power Cards" for details.
 
-##Cards
+  A. Line of sight
+  
+  Certain ranged Power cards require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line, and diagonal-line. 
+  
+  Flat-line of sight means you can draw a straight line between yourself and the target dragon, crossing through the flat sides of the hexagon tiles, without any mountains or other dragons in between you:
+  
+  ![](/dragon_pants/images/line_of_sight_flat.png)
+  
+  Diagonal-line of sight means you can draw a straight line between yourself and the target dragon, crossing through the diagonal corners of the hexagon tiles, without any mountains or other dragons in between you:
+  
+  ![](/dragon_pants/images/line_of_sight_diagonal.png)
+  
+  Any mountains in the between you and the target will block line of sight. You will still be able to target a dragon standing *on* a mountain in your line of sight, but not one *behind* it.
+  
+  ![](/dragon_pants/images/line_of_sight_checks.png)
+
+6. 
+
+##Power Cards
+
+1. Categories
+
+ Cards come in various categories that are referred to by their specific rules. Cards may 
+
+2. Specific cards
+
+ A. Fireball (attack)
+ Use: when you have flat-line of sight on another dragon
+ 
+ C. Poison (Curse)
+ Use: when you are bitten by another dragon, or targeted by the "tongue" card
+ Effect: the other dragon is sent back to their den tile instead, and must discard a card (their choice).
+   if tongue'd: the other dragon must discard a card
+   
+ B. 
 
 ##Rules
 
