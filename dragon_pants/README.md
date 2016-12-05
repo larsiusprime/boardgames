@@ -16,9 +16,12 @@ Suggested age: 10+ maybe?
 
 Players take turns moving their dragons across the board, taking advantage of terrain tiles, and drawing and using power cards, all in the hopes of controlling a legendary artifact of ultimate power: a handsomely tailored and comfortably stylish pair of denim work jeans known as *The Pants*. The Pants can only be worn by one dragon at a time, but control is fleeting as it's only a matter of time until another dragon pries The Pants loose from their owner's claws. Time ticks down one card at a time whenever a dragon wearing The Pants ends their turn. The game concludes when the timer runs out, and whichever dragon happens to be wearing The Pants at that moment wins.
 
-##Contents
+##Materials
 
 - 6 dragon pawns
+- 1 time card
+- 1 time goal marker
+- 1 time status marker
 - 43 hexagonal board tiles
  - 27 land tiles
  - 6 dragon den tiles
@@ -48,6 +51,8 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   Place all "time" cards (those bearing a number with a + or - sign) into their own deck. This is the "Deck of Destiny." Select a set of time cards to include in this deck (see table below), shuffle them together, and place the deck face-down next to the board. Place all unused time cards back in the game box -- they will not be used.
   
+   Place the time card on the table and place the time status marker at 0, and the time goal marker on your chosen time goal. (If this is your first time playing, we recommend the "Standard game" deck and a time goal of **-10**).
+  
   ###Standard game
   
  | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
@@ -66,6 +71,7 @@ Players take turns moving their dragons across the board, taking advantage of te
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
  | # in deck |   16  |     4 |     2 |     4 |     3 |   -20    |
 
+ *Advanced Note: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be greater (ie, less negative) than the time goal. IE, if your time goal is -15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
 
 3. Set up the "Deck of Power"
 
