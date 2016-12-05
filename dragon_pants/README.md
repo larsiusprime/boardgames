@@ -1,4 +1,4 @@
-![Dragon Pants Logo](/dragon_pants/images/logo.png)
+![Dragon Pants Logo](/dragon_pants/images/logo_color.png)
 
 #Dragon Pants
 
