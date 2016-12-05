@@ -25,29 +25,16 @@ Players take turns moving their dragons across the board, taking advantage of te
  - 4 mountain tiles
  - 3 water tiles
  - 3 power tiles  
-- Deck of Power: 26 cards
- - The Pants x1
- - Fireball x2
- - Shock x2
- - Shield x2
- - Freeze x2
- - Boost x2
- - Poison x1
- - Amulet x1
- - Tongue x1
- - Banish x1
- - Thunderstorm x1
- - Teleport x1
- - Rubber Ducky x1
- - Mirror x1
- - Blank x7   
-- Deck of Destiny: 26 cards
- - (-1) x13
- - (-2) x3
- - (-3) x1
- - (+1) x3
- - (+2) x2
- - Blank x4
+- Deck of Power: 19 cards
+ - The Pants
+ - 2x of: Fireball, Shock, Shield, Freeze, Boost
+ - 1x of: Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
+- Deck of Destiny: 29 cards
+ - x16 of: (-1)
+ - x4 of: (-2), (+1)
+ - x3 of: (+2)
+ - x2 of: (-3)
+ - Blank Cards x4
 
 ##Setup
 
@@ -59,7 +46,16 @@ Players take turns moving their dragons across the board, taking advantage of te
 
 2. Set up the "Deck of Destiny"
 
-  Place all "time" cards (those bearing a number with a + or - sign) into their own deck. For a standard game, shuffle all the number cards together. This is the "Deck of Destiny." Place this deck face-down next to the board.
+  Place all "time" cards (those bearing a number with a + or - sign) into their own deck. This is the "Deck of Destiny." Select a set of time cards to include in this deck (see table below), shuffle them together, and place the deck face-down next to the board. Place all unused time cards back in the game box -- they will not be used.
+  
+  Standard game
+  
+  
+ | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
+ | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
+ | # in deck |   13  |     1 |     0 |     3 |     1 |   -10    |
+
+  
 
 3. Set up the "Deck of Power"
 
