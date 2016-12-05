@@ -217,7 +217,7 @@ Cards can only be used on your turn, unless they're reaction cards.
  Use when: you are bitten by another dragon, or targeted by the "tongue" card  
  Effect:  
    Nothing bad happens to you, *and*  
-   (bitten): the other dragon is sent back to their Den tile instead of you, and must discard a card (their choice).  
+   (bitten): the other dragon is sent back to their Den tile instead of you, does not get to take anything from you, and must discard a card (their choice).  
    (tongue'd): the other dragon must discard a card (their choice), and does not get to take anything from you.
    
 4. Amulet (Protect Curse)  
