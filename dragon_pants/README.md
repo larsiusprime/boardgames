@@ -125,7 +125,13 @@ Players take turns moving their dragons across the board, taking advantage of te
  - Draw one (1) card and play one (1) card
  - Play two (2) cards
  
-3. Drawing cards
+3. Moving
+
+ A player may move onto any space on the board, except for a mountain tile with another dragon on it. A player may move onto a tile occupied by another dragon (see "Biting"), a water tile, a land tile, or a power tile. 
+ 
+ A player starts the game on their own Den tile, and may be forced back here at certain times by other player's actions. However, a player may never voluntarily move into a Den tile, and if they start their turn standing on a Den tile, they *must* immediately move out of it as their first action. A player standing on a den tile may not use power cards, and a player wearing The Pants who ends their turn on a Den tile for any reason may not draw a Destiny card.
+ 
+4. Drawing cards
  
  A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold tiles marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
  
@@ -145,13 +151,13 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  When a player spends an action to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
  
-4. Biting other dragons
+5. Biting other dragons
 
  A player may *bite* another player by moving their dragon into the same tile as the other player's dragon. The biting dragon  now occupies that tile, and the bitten dragon moves back to their den tile. Additionally, the biting dragon selects one power card from the bitten dragon's hand and adds it to their own hand.
  
  A dragon that is standing on a Mountain tile may not be bitten -- this also means that as long as it occupies that tile, no other dragon may move there.
  
- 5. Playing Power cards
+6. Playing Power cards
  
   A player may play a Power card as one of their actions by declaring which card they are using and flipping it face down, marking it as "spent." The card will remain "spent" until the end of their *next* turn, at which time the player may flip it face up again.
  
@@ -183,7 +189,15 @@ Players take turns moving their dragons across the board, taking advantage of te
   
   Example 2: Emily is player 4 in a four player game and it is Lars's turn (he's player 3). He hits her with a freeze spell, and she uses her Amulet in response, canceling the freeze, marking the Amulet as "spent." The Amulet will not be available until Emily finishes her *next* turn which is... really soon! Lars ends his turn and now it's Emily's turn. She takes some actions, ends her turn, and flips her Amulet back over, fully charged and ready to go.
 
-6. 
+7. Wearing The Pants
+
+ Whenever a player currently holding The Pants ends their turn, they draw a card from the Deck of Destiny and reveal it face up in a discard pile next to the Deck of Destiny. They then move the time status token a corresponding number of spaces. Example: Sean begins his turn with the time status token on "0." He ends his turn wearing the pants, and draws a Destiny card. It's "-1", so he moves the time status token to "-1". Next turn, Lars steals the pants and draws a "-2", he moves the time status token to "-3". On the next three turns, nobody steals the pants, so no Destiny card is drawn. Now it's Sean's turn again, he steals the pants back from Lars, and draws a "+1", moving the time status token to "-2".
+ 
+ The game ends when the time status token reaches the time target token. Players can double check by simply summing up all the discarded Destiny cards. If the Deck of Destiny has been properly arranged, the game should be guaranteed to end when all the cards have been drawn, but because of the random ordering the game could always end early, so you never know exactly how much time is left. When the game ends, whichever player is currently wearing the pants is declared the winner.
+ 
+ Remember, Destiny cards are only drawn when a player wearing The Pants ends their turn! It is not possible for the game to end without someone wearing The Pants.
+ 
+ **SPECIAL RULE:** If the player wearing The Pants is currently occupying a Den tile, then they *do not* draw a Destiny card at the end of their turn.
 
 ##Power Cards
 
