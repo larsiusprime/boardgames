@@ -48,14 +48,24 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   Place all "time" cards (those bearing a number with a + or - sign) into their own deck. This is the "Deck of Destiny." Select a set of time cards to include in this deck (see table below), shuffle them together, and place the deck face-down next to the board. Place all unused time cards back in the game box -- they will not be used.
   
-  Standard game
-  
+  ###Standard game
   
  | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
  | # in deck |   13  |     1 |     0 |     3 |     1 |   -10    |
-
+ 
+  ###Volatile game
   
+ | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
+ | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
+ | # in deck |   10  |     3 |     1 |     3 |     3 |   -10    |
+  
+  ###Long game
+  
+ | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
+ | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
+ | # in deck |   16  |     4 |     2 |     4 |     3 |   -20    |
+
 
 3. Set up the "Deck of Power"
 
