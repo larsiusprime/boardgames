@@ -51,7 +51,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   Place all "time" cards (those bearing a number with a + or - sign) into their own deck. This is the "Deck of Destiny." Select a set of time cards to include in this deck (see table below), shuffle them together, and place the deck face-down next to the board. Place all unused time cards back in the game box -- they will not be used.
   
-   Place the time card on the table and place the time status marker at 0, and the time goal marker on your chosen time goal. (If this is your first time playing, we recommend the "Standard game" deck and a time goal of **-10**).
+   Place the time card on the table and place the time status marker at 0, and the time target marker on your chosen time goal. (If this is your first time playing, we recommend the "Standard game" deck and a time goal of **-10**).
   
   ###Standard game
   
@@ -70,6 +70,10 @@ Players take turns moving their dragons across the board, taking advantage of te
  | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
  | # in deck |   16  |     4 |     2 |     4 |     3 |   -20    |
+
+ An example of the default setup:
+ 
+ ![Time card with time status token placed at 0, and time target token placed at -10](/dragon_pants/images/time_card_small_example.png)
 
  *Advanced Note: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be greater (ie, less negative) than the time goal. IE, if your time goal is -15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
 
