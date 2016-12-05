@@ -106,7 +106,43 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   *Note: I usually play this game with 3 or 4 players. The 5-player variant has an obvious gap that might need to be revised. The 6-player variant is geometrically balanced but I haven't play tested much with that many people. 2 players works fine but 3-4 seems to be the sweet spot.*
 
-##Play
+##Basic Rules
+
+1. Getting Started
+
+ The player who received The Pants during setup goes first. Each player takes turns in order, with player proceeding to the left. All players begin with their power card face-up, and any future cards the player receives will always stay face up -- each player's hand is public information.
+ 
+2. Taking a turn
+
+ A player may take up to two (2) *actions* on a turn. An *action* is defined as either moving their dragon one tile to an adjacent hexagon, drawing a card from the Deck of Power, or playing a card from their hand. This means a player may do any of the following in a single turn:
+ - Move two spaces
+ - Move one space and play one card
+ - Move one space and draw a card
+ - Draw two cards
+ - Draw one card and move one space
+ - Draw one card and play one card
+ 
+3. Drawing cards
+ 
+ A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold spaces marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
+ 
+ A. Discarding cards
+
+ Various events in the game will cause a player to discard. Players must discard Power cards face-up into a discard pile next to the Deck of Power.
+ 
+ B. Card choice
+ 
+ If there are any cards in the discard pile next to the Deck of Power, a player may use their draw action to draw a single card from *either* the top of the discard pile (face-up) *or* the top of the Deck of Power (face-down). (The player can either get the known item on top of the discards, or a fresh but random item from the shuffled deck -- drawing from the discards is a common way to acquire The Pants!)
+ 
+ C. Hand Limit
+ 
+ Players have a hand limit of 3 cards. If a player ever gains a fourth card, that player must immediately discard one of their cards (their choice).
+ 
+ D. Re-shuffling
+ 
+ At the moment a player chooses to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
+
+ 
 
 ##Cards
 
