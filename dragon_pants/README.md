@@ -82,7 +82,9 @@ The card deck comes in 54-card and 36-card variants. The Deck of Power is always
  
  ![Time card with time status token placed at 10](/dragon_pants/images/time_card_small_example.png)
 
- *Advanced Note: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be a larger absolute number than the game length. IE, if you start the game at time 15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
+ *Note 1: You don't need to use the time card if you don't want, you can just keep track on a piece of paper, or assign someone to sum up the Destiny cards aloud every turn.*
+
+ *Note 2: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be a larger absolute number than the game length. IE, if you start the game at time 15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
 
 3. Set up the "Deck of Power"
 
