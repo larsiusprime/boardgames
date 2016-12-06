@@ -27,7 +27,8 @@ Players take turns moving their dragons across the board, taking advantage of te
 ##Credits
 
 ###Design
-Megan Bednarz & Lars Doucet
+- Megan Bednarz
+- Lars Doucet
 
 ###Stock Imagery sourced from:
 
