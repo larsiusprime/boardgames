@@ -25,15 +25,25 @@ Players take turns moving their dragons across the board, taking advantage of te
  - 27x of: land (blank)
  - 6x of: dragon den
  - 5x of: mountain, water, power
+
+The card deck comes in 54-card and 36-card variants. The Deck of Power is always the same but the Deck of Destiny varies:
+
 - Deck of Power: 19 cards
  - 2x of: Fireball, Shock, Shield, Freeze, Boost
  - 1x of: The Pants, Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
-- Deck of Destiny: 29 cards
+ 
+- Deck of Destiny: 29 cards (54-card variant)
  - x16 of: (-1)
  - x4 of: (-2), (+1)
  - x3 of: (+2)
  - x2 of: (-3)
  - Blank Cards x4
+
+- Deck of Destiny: 17 cards (36-card variant)
+ - x11 of: (-1)
+ - x3 of: (+1)
+ - x2 of: (-2)
+ - x1 of: (+2)
 
 ##Setup
 
