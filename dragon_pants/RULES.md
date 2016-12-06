@@ -27,19 +27,19 @@
  
  A player may *only* use an action to draw from the Deck of Power if they began that action standing on a Power Tile (the gold tiles marked with a star). For example, if a player is merely standing adjacent to a Power Tile, they may not draw two Power cards this turn, as they must spend one action to move to the Power Tile, then another action to draw a card. If, however, a player started their turn standing on a Power Tile, they may use both actions to draw two cards. 
  
- ###A. Discarding cards
+###A. Discarding cards
 
  Various events in the game will cause a player to discard cards; they should be placed face-up into a separate discard pile next to the Deck of Power.
  
- ###B. Card choice
+###B. Card choice
  
  If there are any cards in the discard pile next to the Deck of Power, a player may use their draw action to draw a single card from *either* the top of the discard pile (face-up) *or* the top of the Deck of Power (face-down). (The player can either get the known item on top of the discards, or a fresh but random item from the shuffled deck -- drawing from the discards is a common way to acquire The Pants!)
  
- ###C. Hand Limit
+###C. Hand Limit
  
  Players have a hand limit of 3 cards. If at any moment a player holds 4 cards (whether by drawing a new card or stealing it from another player), that player must immediately discard one of their cards (their choice).
  
- ###D. Re-shuffling
+###D. Re-shuffling
  
  When a player spends an action to draw a card from the Deck of Power, but there are no cards available, that player takes all the cards in the discard pile, shuffles them, and places them on the board face-down as a replenished Deck of Power. The player then draws their card from the top of the Deck of Power.
  
@@ -57,7 +57,7 @@
  
   However, most cards can only be used in certain situations, so a card can only be played if the card-specific conditions are met. See the next section, "Power Cards" for details.
 
-  ###A. Line of sight
+###A. Line of sight
   
   Certain ranged Power cards such as Fireball and Shock require you to have "line of sight" with another player. There are two forms of "line of sight" -- flat-line (ex: Fireball), and diagonal-line (ex: Shock). 
   
@@ -75,7 +75,7 @@
   
   Water tiles confer immunity to line-of-sight powers, but do not block line-of-sight powers the way mountains do. (The dragon on that tile is hiding underneath the water and any attack would fly straight over them). Dragons standing on a water tile are still able to use line-of-sight powers themselves, however (they duck their heads above water to attack).
   
-  ###B. Reaction powers
+###B. Reaction powers
   
   Some cards (Poison, Rubber Ducky) can only be used in reaction to other powers. When a card is used against you that triggers one of your reaction powers, at that moment you *may elect* to immediately use your reaction power in response, but you do not have to. Two conditions must be met: 1) the reaction must be legal (see the card's rules), and 2) the reaction card must not be spent (it must be face-up). A reaction card used in this way remains "spent" until the end of your *next* turn. 
   
