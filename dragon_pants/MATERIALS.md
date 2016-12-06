@@ -33,3 +33,5 @@ The Deck of Power is always the same but the Deck of Destiny varies:
  - x1 of: (+2)
  
  The larger deck size allows you to play games of varying length and volatility and throws in a few blank cards for your own use, the smaller deck size only supports the standard game.
+ 
+ You should be able to print your own deck using the 300-DPI image files in this repository.
