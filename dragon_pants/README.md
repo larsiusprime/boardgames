@@ -34,4 +34,4 @@ Players take turns moving their dragons across the board, taking advantage of te
 
 - [Game-icons.net](http://game-icons.net/)  
 - [Jamiecat](https://www.flickr.com/photos/jamiecat/4878986494/)
-- The Public Domain
+- The public domain
