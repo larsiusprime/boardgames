@@ -20,6 +20,6 @@ Players take turns moving their dragons across the board, taking advantage of te
 
 ##[Setup](SETUP.md)
 
-##[Basic Rules](RULES.md)
+##[Rules](RULES.md)
 
-##[Power Cards](CARDS.md)
+##[Cards](CARDS.md)
