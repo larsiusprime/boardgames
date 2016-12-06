@@ -26,7 +26,7 @@ Effect: the other dragon loses one of their power cards (their choice) *and* get
 Use when: you are bitten by another dragon, or targeted by the "tongue" card  
 Effect: nothing happens to you, *and* the other player is sent back to their Den tile instead of you, does not get to take anything from you, and must discard a card (their choice).  
    
-##4. Amulet (Reaction Vs. Curse)  
+##4. Amulet (Reaction vs. curse)  
 
 | ![](/dragon_pants/images/cards/small/amulet.png) |
 | --- |
@@ -47,16 +47,16 @@ Effect: the other player skips their *next* turn. If they are wearing The Pants 
 | ![](/dragon_pants/images/cards/small/banish.png) |
 | --- |
 
-Use when: anytime on your turn
-Effect: a player of your choice is sent home to their den. No line of site needed.
+Use when: anytime on your turn  
+Effect: a player of your choice is sent home to their den. Line of site is not required.
  
-##7. Mirror (Reaction Vs. attack or curse)  
+##7. Mirror (Reaction vs. attack or curse)  
 
 | ![](/dragon_pants/images/cards/small/mirror.png) |
 | --- |
 
 Use when: another player uses an attack or curse card on you  
-Effect: whatever was about to happen to you happens to them instead (the Fireball hits them, the Tongue steals from them and gives a card to you, etc. If the attack or curse also affected players besides you, the original effect still happens to everyone else, but the player that attacked or cursed you gets hit with the effect that was meant for you.
+Effect: whatever was about to happen to you happens to them instead (the Fireball hits them, the Tongue steals from them and gives a card to you, etc.) If the attack or curse also affected players besides you, the original effect still happens to everyone else, but the player that attacked or cursed you gets hit with the effect that was meant for you.
  
 ##8. Storm (Curse)  
 
@@ -66,7 +66,7 @@ Effect: whatever was about to happen to you happens to them instead (the Firebal
 Use when: anytime on your turn  
 Effect: all other players are sent home to their Den tiles.
  
-##9. Shield (Reaction Vs. attack)  
+##9. Shield (Reaction vs. attack)  
 
 | ![](/dragon_pants/images/cards/small/shield.png) |
 | --- |
@@ -96,7 +96,7 @@ Effect: you take one card (your choice) from the other player's hand and add it 
 | --- |
 
 Use when: another player tries to steal from you (either with the Tongue card, or with a bite)  
-Effect: the player that tried to steal has no choice but to steal the irresistible Rubber Ducky, regardless of what choice they wanted to make.
+Effect: the player that tried to steal has no choice but to steal the irresistible Rubber Ducky, instead of whatever else they wanted to take.
  
 ##13. Boost (+1 Action)
 
@@ -106,7 +106,7 @@ Effect: the player that tried to steal has no choice but to steal the irresistib
 Use when: anytime on your turn  
 Effect: You may take one extra action this turn, and using this card does not cost one action (but the card is still spent). IE, you can spend this card and then take 3 actions this turn.
  
- ##14. The Pants
+##14. The Pants
  
 | ![](/dragon_pants/images/cards/small/the_pants.png) |
 | --- |
