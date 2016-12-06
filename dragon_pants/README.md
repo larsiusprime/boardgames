@@ -53,7 +53,7 @@ Players take turns moving their dragons across the board, taking advantage of te
   
  | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
- | # in deck |   13  |     1 |     0 |     3 |     1 |   -10    |
+ | # in deck |   11  |     2 |     0 |     3 |     1 |   -10    |
  
   ###Volatile game
   
