@@ -24,7 +24,8 @@ Players take turns moving their dragons across the board, taking advantage of te
 - 43 hexagonal board tiles
  - 27x of: land (blank)
  - 6x of: dragon den
- - 5x of: mountain, water, power
+ - 4x of: mountain
+ - 3x of: water, power
 
 The card deck comes in 54-card and 36-card variants. The Deck of Power is always the same but the Deck of Destiny varies:
 
