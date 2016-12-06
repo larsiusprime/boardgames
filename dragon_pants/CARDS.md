@@ -5,7 +5,8 @@ Cards can only be used on your turn, unless they're reaction cards.
 | Card | Type | Use when | Effect |
 | -----| ---- | --------- | -------- |
 | [![Fireball](/dragon_pants/images/cards/small/fireball.png)](/dragon_pants/images/cards/fireball.png) | Attack | You have flat-line of sight on another dragon  | the other dragon loses one of their power cards (their choice). |
-| [![Shock](/dragon_pants/images/cards/small/shock.png)](/dragon_pants/images/cards/shock.png) | Attack / Curse | You have diagonal-line of sight on another dragon | The other dragon loses one of their power cards (their choice) *and* gets sent home to their Den tile. |
+| [![Shock](/dragon_pants/images/cards/small/shock.png)](/dragon_pants/images/cards/shock.png) | Attack/  
+Curse | You have diagonal-line of sight on another dragon | The other dragon loses one of their power cards (their choice) *and* gets sent home to their Den tile. |
 | [![Poison](/dragon_pants/images/cards/small/poison.png)](/dragon_pants/images/cards/poison.png) | Reaction vs. theft | You are bitten by another dragon, or targeted by the "tongue" card  | Nothing happens to you, *and* the other player is sent back to their Den tile instead of you, does not get to take anything from you, and must discard a card (their choice). |
 | [![Amulet](/dragon_pants/images/cards/small/amulet.png)](/dragon_pants/images/cards/amulet.png) | Reaction vs. curse | Another player uses a curse card on you  | Nothing happens to you (but the curse card used against you is spent, as is the amulet). If the curse affected more dragons than just you, nothing happens to *you*, but it still affects everybody else. |
 | [![Freeze](/dragon_pants/images/cards/small/freeze.png)](/dragon_pants/images/cards/freeze.png) | Curse | You have flat-line of sight on another player  | The other player skips their *next* turn. If they are wearing The Pants while frozen, they don't draw a Destiny card when their turn is skipped. |
