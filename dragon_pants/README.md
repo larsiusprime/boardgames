@@ -22,21 +22,29 @@ Players take turns moving their dragons across the board, taking advantage of te
 - 1 time card
 - 1 time status marker
 - 43 hexagonal board tiles
- - 27 land tiles
- - 6 dragon den tiles
- - 4 mountain tiles
- - 3 water tiles
- - 3 power tiles  
+ - 27x of: land (blank)
+ - 6x of: dragon den
+ - 4x of: mountain
+ - 3x of: water, power
+
+The card deck comes in 54-card and 36-card variants. The Deck of Power is always the same but the Deck of Destiny varies:
+
 - Deck of Power: 19 cards
- - The Pants
  - 2x of: Fireball, Shock, Shield, Freeze, Boost
- - 1x of: Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
-- Deck of Destiny: 29 cards
+ - 1x of: The Pants, Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
+ 
+- Deck of Destiny: 29 cards (54-card variant)
  - x16 of: (-1)
  - x4 of: (-2), (+1)
  - x3 of: (+2)
  - x2 of: (-3)
  - Blank Cards x4
+
+- Deck of Destiny: 17 cards (36-card variant)
+ - x11 of: (-1)
+ - x3 of: (+1)
+ - x2 of: (-2)
+ - x1 of: (+2)
 
 ##Setup
 
@@ -44,7 +52,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   ![Dragon Pants board](/dragon_pants/images/map_small.png)
   
-  NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurposes existing hexagonal tiles to play *Dragon Pants.*
+  NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurpose existing hexagonal tiles to play *Dragon Pants.*
 
 2. Set up the "Deck of Destiny"
 
@@ -56,7 +64,7 @@ Players take turns moving their dragons across the board, taking advantage of te
   
  | Card type |   -1  |    -2 |    -3 |    +1 |    +2 | Deck sum |
  | --------  | :---: | :---: | :---: | :---: | :---: | :------: |
- | # in deck |   13  |     1 |     0 |     3 |     1 |   -10    |
+ | # in deck |   11  |     2 |     0 |     3 |     1 |   -10    |
  
   ###Volatile game
   
@@ -74,7 +82,9 @@ Players take turns moving their dragons across the board, taking advantage of te
  
  ![Time card with time status token placed at 10](/dragon_pants/images/time_card_small_example.png)
 
- *Advanced Note: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be a larger absolute number than the game length. IE, if you start the game at time 15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
+ *Note 1: You don't need to use the time card if you don't want, you can just keep track on a piece of paper, or assign someone to sum up the Destiny cards aloud every turn.*
+
+ *Note 2: If you're not playing the standard game, you should note that the (negative) sum of the Deck of Destiny must not be a larger absolute number than the game length. IE, if you start the game at time 15, but the Deck of Destiny sums to only -10, it's not guaranteed that the game will end even when all cards have been drawn. But if the Deck of Destiny sums to -16, that's fine.*  
 
 3. Set up the "Deck of Power"
 
