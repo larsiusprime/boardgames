@@ -22,15 +22,12 @@ Players take turns moving their dragons across the board, taking advantage of te
 - 1 time card
 - 1 time status marker
 - 43 hexagonal board tiles
- - 27 land tiles
- - 6 dragon den tiles
- - 4 mountain tiles
- - 3 water tiles
- - 3 power tiles  
+ - 27x of: land (blank)
+ - 6x of: dragon den
+ - 5x of: mountain, water, power
 - Deck of Power: 19 cards
- - The Pants
  - 2x of: Fireball, Shock, Shield, Freeze, Boost
- - 1x of: Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
+ - 1x of: The Pants, Poison, Amulet, Tongue, Banish, Thunderstorm, Teleport, Rubber Ducky, Mirror
 - Deck of Destiny: 29 cards
  - x16 of: (-1)
  - x4 of: (-2), (+1)
@@ -44,7 +41,7 @@ Players take turns moving their dragons across the board, taking advantage of te
 
   ![Dragon Pants board](/dragon_pants/images/map_small.png)
   
-  NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurposes existing hexagonal tiles to play *Dragon Pants.*
+  NOTE: This game was originally prototyped by using hexagonal tiles from other games I had lying around, such as *The Settlers of Catan.* If you have such a game you can just repurpose existing hexagonal tiles to play *Dragon Pants.*
 
 2. Set up the "Deck of Destiny"
 
