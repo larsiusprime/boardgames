@@ -4,7 +4,7 @@ Cards can only be used on your turn, unless they're reaction cards.
 
 ##1. Fireball (attack)  
 
-| ![](/dragon_pants/images/cards/small/fireball.png) |
+| [![](/dragon_pants/images/cards/small/fireball.png)](/dragon_pants/images/cards/fireball.png) |
 | --- |
 
 Use when: you have flat-line of sight on another dragon  
@@ -12,7 +12,7 @@ Effect: the other dragon loses one of their power cards (their choice).
 
 ##2. Shock (attack+curse)  
 
-| ![](/dragon_pants/images/cards/small/shock.png) |
+| [![](/dragon_pants/images/cards/small/shock.png)](/dragon_pants/images/cards/shock.png) |
 | --- |
 
 Use when: you have diagonal-line of sight on another dragon  
@@ -20,7 +20,7 @@ Effect: the other dragon loses one of their power cards (their choice) *and* get
  
 ##3. Poison (Curse)  
 
-| ![](/dragon_pants/images/cards/small/poison.png) |
+| [![](/dragon_pants/images/cards/small/poison.png)](/dragon_pants/images/cards/poison.png) |
 | --- |
 
 Use when: you are bitten by another dragon, or targeted by the "tongue" card  
@@ -28,7 +28,7 @@ Effect: nothing happens to you, *and* the other player is sent back to their Den
    
 ##4. Amulet (Reaction vs. curse)  
 
-| ![](/dragon_pants/images/cards/small/amulet.png) |
+| [![](/dragon_pants/images/cards/small/amulet.png)](/dragon_pants/images/cards/amulet.png) |
 | --- |
 
 Use when: another player uses a curse card on you  
@@ -36,7 +36,7 @@ Effect: nothing happens to you (but the curse card used against you is spent, as
  
 ##5. Freeze (Curse)  
 
-| ![](/dragon_pants/images/cards/small/freeze.png) |
+| [![](/dragon_pants/images/cards/small/freeze.png)](/dragon_pants/images/cards/freeze.png) |
 | --- |
 
 Use when: you have flat-line of sight on another player  
@@ -44,7 +44,7 @@ Effect: the other player skips their *next* turn. If they are wearing The Pants 
  
 ##6. Banish (Curse)  
 
-| ![](/dragon_pants/images/cards/small/banish.png) |
+| [![](/dragon_pants/images/cards/small/banish.png)](/dragon_pants/images/cards/banish.png) |
 | --- |
 
 Use when: anytime on your turn  
@@ -52,7 +52,7 @@ Effect: a player of your choice is sent home to their den. Line of site is not r
  
 ##7. Mirror (Reaction vs. attack or curse)  
 
-| ![](/dragon_pants/images/cards/small/mirror.png) |
+| [![](/dragon_pants/images/cards/small/mirror.png)](/dragon_pants/images/cards/mirror.png) |
 | --- |
 
 Use when: another player uses an attack or curse card on you  
@@ -60,7 +60,7 @@ Effect: whatever was about to happen to you happens to them instead (the Firebal
  
 ##8. Storm (Curse)  
 
-| ![](/dragon_pants/images/cards/small/storm.png) |
+| [![](/dragon_pants/images/cards/small/storm.png)](/dragon_pants/images/cards/storm.png) |
 | --- |
 
 Use when: anytime on your turn  
@@ -68,7 +68,7 @@ Effect: all other players are sent home to their Den tiles.
  
 ##9. Shield (Reaction vs. attack)  
 
-| ![](/dragon_pants/images/cards/small/shield.png) |
+| [![](/dragon_pants/images/cards/small/shield.png)](/dragon_pants/images/cards/shield.png) |
 | --- |
 
 Use when: another player uses an attack card on you  
@@ -76,7 +76,7 @@ Effect: nothing happens to you (but the attack card used against you is spent, a
 
 ##10. Teleport (Curse)  
 
-| ![](/dragon_pants/images/cards/small/teleport.png) |
+| [![](/dragon_pants/images/cards/small/teleport.png)](/dragon_pants/images/cards/teleport.png) |
 | --- |
 
 Use when: anytime on your turn  
@@ -84,7 +84,7 @@ Effect: trade places with another player (even if they're on a Den tile).
  
 ##11. Tongue (Theft)  
 
-| ![](/dragon_pants/images/cards/small/tongue.png) |
+| [![](/dragon_pants/images/cards/small/tongue.png)](/dragon_pants/images/cards/tongue.png) |
 | --- |
 
 Use when: you have flat-line of sight on another player  
@@ -92,7 +92,7 @@ Effect: you take one card (your choice) from the other player's hand and add it 
  
 ##12. Rubber Ducky (Theft bait)  
 
-| ![](/dragon_pants/images/cards/small/rubber_ducky.png) |
+| [![](/dragon_pants/images/cards/small/rubber_ducky.png)](/dragon_pants/images/cards/rubber_ducky.png) |
 | --- |
 
 Use when: another player tries to steal from you (either with the Tongue card, or with a bite)  
@@ -100,7 +100,7 @@ Effect: the player that tried to steal has no choice but to steal the irresistib
  
 ##13. Boost (+1 Action)
 
-| ![](/dragon_pants/images/cards/small/boost.png) |
+| [![](/dragon_pants/images/cards/small/boost.png)](/dragon_pants/images/cards/boost.png) |
 | --- |
 
 Use when: anytime on your turn  
@@ -108,7 +108,7 @@ Effect: You may take one extra action this turn, and using this card does not co
  
 ##14. The Pants
  
-| ![](/dragon_pants/images/cards/small/the_pants.png) |
+| [![](/dragon_pants/images/cards/small/the_pants.png)](/dragon_pants/images/cards/the_pants.png) |
 | --- |
 
 This card cannot be used, but if you are holding it when time runs out, you win the game. If you have this card when your turn ends, draw a card from the Deck of Destiny.
