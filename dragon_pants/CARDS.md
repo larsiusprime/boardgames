@@ -2,13 +2,10 @@
 
 Cards can only be used on your turn, unless they're reaction cards.
 
-| Fireball (attack) | Use when | Effect |
-| -------- | --------- | -------- |
-| [![](/dragon_pants/images/cards/small/fireball.png)](/dragon_pants/images/cards/fireball.png) | You have flat-line of sight on another dragon  | the other dragon loses one of their power cards (their choice). |
-
-| Shock (attack/curse) | Use when | Effect |
-| -------- | --------- | -------- |
-| [![](/dragon_pants/images/cards/small/shock.png)](/dragon_pants/images/cards/shock.png) | You have diagonal-line of sight on another dragon | The other dragon loses one of their power cards (their choice) *and* gets sent home to their Den tile. |
+| Card | Type | Use when | Effect |
+| -----| ---- | --------- | -------- |
+| [![Fireball](/dragon_pants/images/cards/small/fireball.png)](/dragon_pants/images/cards/fireball.png) | Attack | You have flat-line of sight on another dragon  | the other dragon loses one of their power cards (their choice). |
+| [![Shock](/dragon_pants/images/cards/small/shock.png)](/dragon_pants/images/cards/shock.png) | Attack / Curse | You have diagonal-line of sight on another dragon | The other dragon loses one of their power cards (their choice) *and* gets sent home to their Den tile. |
  
 ##3. Poison (Curse)  
 
