@@ -24,6 +24,8 @@ Players take turns moving their dragons across the board, taking advantage of te
 
 ##[Cards](CARDS.md)
 
+##[Printing](PRINTING.md)
+
 ##Credits
 
 ###Design
