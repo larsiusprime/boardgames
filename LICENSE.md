@@ -7,7 +7,7 @@ If you would like to obtain a different license for this work (such as a commerc
 #Surmount
 Copyright (c) 2004-2016 Lars Doucet & Sean Choate
 All Rights Reserved  
-(open license coming as soon as I hear back from Sean)
+(open license coming as soon as I hear back from Sean - leaning towards CC Attribution NonCommercial 4.0)
 
 #Ninja Havoc Machines
 
@@ -17,4 +17,4 @@ For what it's worth, the license for the additions to R.B.P. embodied in N.H.M a
 
 Copyright (c) 2004-2016 Lars Doucet & Sean Choate
 All Rights Reserved  
-(open license coming as soon as I hear back from Sean)
+(open license coming as soon as I hear back from Sean - leaning towards CC Attribution NonCommercial 4.0)
