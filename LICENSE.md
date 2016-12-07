@@ -9,3 +9,12 @@ Copyright (c) 2004-2016 Lars Doucet & Sean Choate
 All Rights Reserved  
 (open license coming as soon as I hear back from Sean)
 
+#Ninja Havoc Machines
+
+This one's complicated as it's based on an existing work, [Robo Battle Pigs](http://cox-tv.com/games/mygames/robobattlepigs.html). I suppose I should give Randy Cox a call and sort out permission for an open licensing situation once and for all.
+
+For what it's worth, the license for the additions to R.B.P. embodied in N.H.M are as follows:
+
+Copyright (c) 2004-2016 Lars Doucet & Sean Choate
+All Rights Reserved  
+(open license coming as soon as I hear back from Sean)
