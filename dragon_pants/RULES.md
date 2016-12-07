@@ -1,4 +1,4 @@
-#Basic Rules
+#Rules
 
 ##1. Getting Started
 
@@ -85,9 +85,9 @@
 
 ##7. Wearing The Pants
 
- Whenever a player currently holding The Pants ends their turn, they draw a card from the Deck of Destiny and reveal it face up in a discard pile next to the Deck of Destiny. They then move the time status token a corresponding number of spaces. Example: Sean begins his turn with the time status token on "0." He ends his turn wearing the pants, and draws a Destiny card. It's "-1", so he moves the time status token to "-1". Next turn, Lars steals the pants and draws a "-2", he moves the time status token to "-3". On the next three turns, nobody steals the pants, so no Destiny card is drawn. Now it's Sean's turn again, he steals the pants back from Lars, and draws a "+1", moving the time status token to "-2".
+ Whenever a player currently holding The Pants ends their turn, they draw a card from the Deck of Destiny and reveal it face up in a discard pile next to the Deck of Destiny. They then move the time status token a corresponding number of spaces. Example: Sean begins his turn with the time status token on "10." He ends his turn wearing the pants, and draws a Destiny card. It's "-1", so he moves the time status token to "9". Next turn, Lars steals the pants and draws a "-2", he moves the time status token to "7". On the next three turns, nobody steals the pants, so no Destiny card is drawn. Now it's Sean's turn again, he steals the pants back from Lars, and draws a "+1", moving the time status token to "8".
  
- The game ends when the time status token reaches the time target token. Players can double check by simply summing up all the discarded Destiny cards. If the Deck of Destiny has been properly arranged, the game should be guaranteed to end when all the cards have been drawn, but because of the random ordering the game could always end early, so you never know exactly how much time is left. When the game ends, whichever player is currently wearing the pants is declared the winner.
+ The game ends when the time status token reaches "0". Players can double-check by simply summing up all the discarded Destiny cards. If the Deck of Destiny has been properly arranged the game is guaranteed to end when all the cards have been drawn. However, the random draw order of cards means the game could always end early, so you never know exactly how much time is left. When the game ends, whichever player is currently wearing the pants is declared the winner.
  
  Remember, Destiny cards are only drawn when a player wearing The Pants ends their turn! It is not possible for the game to end without someone wearing The Pants.
  
