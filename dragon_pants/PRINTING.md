@@ -1,15 +1,15 @@
 #Printing
 
-#Do It Yourself
+#1. Do It Yourself
 
 To do a quick-and-dirty print & play version of Dragon Pants, just head over to the [print section](https://github.com/larsiusprime/boardgames/tree/master/dragon_pants/print)
 and print out board.pdf and cards.pdf on a regular desktop printer. Black & White laser printer works best, but any will do.
 
 Then just cut the cards and board sections out along the lines, assemble the board to match the instructions, and you're ready to go! For keeping track of time, just use a piece of paper and a pencil. For dragon pawns, use pawns from another board game, bottle caps, coins, anything really.
 
-#Fancy
+#2. Do It Fancy
 
-If you want to print high-quality cards yourself, you can use a service like [MakePlayingCards.com](http://www.makeplayingcards.com/) and use the hiqh-quality images included in this repository.
+If you want to print high-quality cards yourself, you can use a service like [MakePlayingCards.com](http://www.makeplayingcards.com/) and use the hiqh-quality images included in this repository. You're more than free to print high quality reproductions for your own use, or for your friends, so long as you're doing it at cost. This is a non-commercially licensed product, but if you want to do a commercial production run you can contact the authors for a special license.
 
 ##[Cards](https://github.com/larsiusprime/boardgames/tree/master/dragon_pants/print/cards)
 
