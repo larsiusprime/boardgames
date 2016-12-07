@@ -21,4 +21,4 @@ For 2 or 4 players. Played on a 3D board with colored cubes. For nerds and sophi
 
 Coming soon, this one was ridiculously popular. Like, I'm pretty proud of the above two but everyone I've ever introduced this last one to has played it like 100x times more and then taught all their friends how to play. You should probably play it too.
 
-For 2 to as many players as you can cram on a standard-sized checkerboard. Played with junk you find around your house or school. For nerds and people slacking off during Study Hall.
+For 2 to as many players as you can cram on a standard-sized checkerboard. Played with junk you find around your house or school. For nerds and kids who enjoy slacking off during Study Hall.
