@@ -5,7 +5,7 @@ Copyright (c) 2006-2016 Megan Bednarz & Lars Doucet
 If you would like to obtain a different license for this work (such as a commercial license) feel free to contact the authors.
 
 #Surmount
-Copyright (c) 2004 Lars Doucet & Sean Choate
+Copyright (c) 2004-2016 Lars Doucet & Sean Choate
 All Rights Reserved  
 (open license coming as soon as I hear back from Sean)
 
