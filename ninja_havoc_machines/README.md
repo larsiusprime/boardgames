@@ -1,4 +1,4 @@
-![Surmount Logo](/ninja_havoc_machines/images/logo.png)
+![Ninja Havoc Machines Logo](/ninja_havoc_machines/images/logo.png)
 
 # Ninja Havoc Machines
 
