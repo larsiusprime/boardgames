@@ -6,6 +6,8 @@
 
 Designed by Megan Bednarz and Lars Doucet
 
+[![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://github.com/larsiusprime/boardgames/tree/master/LICENSE.md)
+
 ##Overview
 
 2-6 players  
