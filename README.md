@@ -17,7 +17,7 @@ Move blocks across a four-tiered 3D pyramid. Build stacks and capture your oppon
 
 For 2 or 4 players. Played on a 3D board with colored cubes. For nerds and sophisticated dorks.
 
-## Ninja Havoc Machines
+## [Ninja Havoc Machines](/ninja_havoc_machines)
 
 ![](/ninja_havoc_machines/images/logo_small.png)
 
