@@ -1,5 +1,7 @@
 ![Ninja Havoc Machines Logo](/ninja_havoc_machines/images/logo.png)
 
+(Man that's some old artwork! Can you tell we designed this in College?)
+
 # Ninja Havoc Machines
 
 by Sean Choate and Lars Doucet
@@ -8,9 +10,9 @@ a derivative work of [Robo Battle Pigs](http://cox-tv.com/games/mygames/robobatt
 
 ##Overview
 
-2 to as many players as you can cram on a standard-sized chess board
-Playtime: ~10 minutes per session
-Suggested age: 10+ maybe?
+2 to as many players as you can cram on a standard-sized chess board  
+Playtime: ~10 minutes per session  
+Suggested age: 10+ maybe?  
 
 ##Summary
 A game about customizable programmable robots battling to the death. All you need to play is a standard 8x8 checkers/chess board, paper & pens/pencils, and random
