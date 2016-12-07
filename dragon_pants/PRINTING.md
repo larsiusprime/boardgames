@@ -9,4 +9,4 @@ Then just cut the cards and board sections out along the lines, assemble the boa
 
 #Fancy
 
-Coming soon
+If you want to print high-quality cards yourself, you can use a service like [MakePlayingCards.com](http://www.makeplayingcards.com/) and use the included high-quality p
