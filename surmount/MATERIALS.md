@@ -8,5 +8,3 @@ You can build this game set yourself out of certain common items, but an "offici
 - 8x yellow blocks
 - 8x black blocks
 - 1x 3D four-tiered pyramid
-
-You can prototype this with Duplo and/or Lego, though for actually constructing a permanent set it'd probably be cheaper to use other materials.
