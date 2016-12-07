@@ -7,5 +7,5 @@ If you would like to obtain a different license for this work (such as a commerc
 #Surmount
 Copyright (c) 2004 Lars Doucet & Sean Choate
 All Rights Reserved  
-(open license coming soon)
+(open license coming as soon as I hear back from Sean)
 
