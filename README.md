@@ -17,11 +17,11 @@ Move blocks across a four-tiered 3D pyramid. Build stacks and capture your oppon
 
 For 2 or 4 players. Played on a 3D board with colored cubes. For nerds and sophisticated dorks.
 
-## Ninja Havoc Machines
+## [Ninja Havoc Machines](/ninja_havoc_machines)
 
 ![](/ninja_havoc_machines/images/logo_small.png)
 
-Customizable robots battle to death on a standard chessboard using nothing but random bits or little toys you have lying around your house and some pens and paper. Customize your bot from an enticing but simple menu of weapons and armor, program your moves in advance, then execute them simultaneously and watch the sprockets of strife fly.
+Customizable robots battle to the death on a standard chessboard using nothing but random bits or little toys you have lying around your house and some pens and paper. Customize your bot from an enticing but simple menu of weapons and armor, program your moves in advance, then execute them simultaneously and watch the sprockets of strife fly.
 
 This one was ridiculously popular. Like, I'm pretty proud of the above two but everyone I've ever introduced this last one to has played it like 100x times more and then taught all their friends how to play. You should probably play it too.
 
