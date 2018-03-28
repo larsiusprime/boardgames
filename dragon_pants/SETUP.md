@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 1. Arrange the hexagonal tiles like this:
 
