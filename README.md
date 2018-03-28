@@ -1,4 +1,4 @@
-#Board Games
+# Board Games
 Some board games I designed with my friends over the years, making them open source now.
 
 ## [Dragon Pants](/dragon_pants)

@@ -1,6 +1,6 @@
-#Setup
+# Setup
 
-##1. Setup the board
+## 1. Setup the board
 
 For a two-player game, the board should look like this:
 
@@ -16,7 +16,7 @@ For a two-player game, the board should look like this:
   
   ![](/surmount/images/board_2player_blank_notop2.png)
   
-##2. Place blocks
+## 2. Place blocks
 
 Place the eight red blocks on the eight red home spaces, and the eight blue blocks on eight the blue home spaces.
 
